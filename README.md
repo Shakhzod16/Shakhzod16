@@ -77,7 +77,7 @@
 
 ###
 
-<h2 align="left">🔥  Mening statistikam :</h2>
+<h2 align="left">🔥  Mening statistikam !:</h2>
 
 
 ###
