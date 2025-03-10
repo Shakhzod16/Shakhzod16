@@ -22,10 +22,7 @@
 ###
 
 <div align="center">
-	<a href="https://www.youtube.com/@mirba.ea7781" target="_blank">
-		<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-	</a>
-	<a href="https://t.me/Ulmasjon96" target="_blank">
+	<a href="https://t.me/Shahzod_Qosimov" target="_blank">
 		<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 	</a>
 </div>
